@@ -1,0 +1,6 @@
+1. Understanding the domain structure
+2. Configuring the URL sources
+3. Running a test crawl
+4. Adding crawl restrictions
+5. Testing your changes
+6. Running your craw
